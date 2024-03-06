@@ -1,10 +1,13 @@
 import React from 'react';
-import Featured from '../Featured';
+import Featured from '../Featured/Featured';
+import Deals from '../Deals/Deals';
+
 
 const Home = () => {
     return (
-        <div className='bg-slate-100'>
-            <Featured></Featured>
+        <div className=''>
+           <Featured></Featured>
+           <Deals></Deals>
         </div>
     );
 };
