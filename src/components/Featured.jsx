@@ -2,9 +2,9 @@ import React from 'react';
 
 const Featured = () => {
     return (
-        <div className='px-6 lg:mt-24 mt-4'>
+        <div className='px-6 lg:mt-24 mt-5 '>
             <div className='lg:px-40'>
-<h1 className='text-3xl font-semibold lg:mb-20 mb-4'>Featured Destinations</h1>
+<h1 className='text-3xl font-semibold lg:mb-20  mb-4'>Featured Destinations</h1>
 <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4'>
 <div className='  rounded-lg bg-white'>
    <div className='p-2'>
