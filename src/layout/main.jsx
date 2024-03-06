@@ -4,7 +4,7 @@ import NavigationBar from '../components/NavigationBar/NavigationBar';
 
 const main = () => {
     return (
-        <div>
+        <div className='bg-slate-100'>
             <NavigationBar></NavigationBar>
             <Outlet></Outlet>
         </div>

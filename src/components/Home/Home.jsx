@@ -1,9 +1,10 @@
 import React from 'react';
+import Featured from '../Featured';
 
 const Home = () => {
     return (
-        <div>
-            
+        <div className='bg-slate-100'>
+            <Featured></Featured>
         </div>
     );
 };
