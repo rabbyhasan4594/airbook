@@ -3,7 +3,7 @@ import React from 'react';
 const Featured = () => {
     return (
         <div className=' lg:mt-24 mt-4 '>
-            <div className='lg:px-28'>
+            <div className='lg:px-32 px-2'>
 <h1 className='text-3xl font-semibold lg:mb-20  mb-4'>Featured Destinations</h1>
 <div className='grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-4'>
 <div className='  rounded-lg bg-white'>
