@@ -3,7 +3,7 @@ import { BeakerIcon, StarIcon } from '@heroicons/react/24/solid'
 
 const Popular = () => {
     return (
-        <div className='lg:pt-24 pt-4 lg:mx-32 mx-2'>
+        <div className='lg:pt-24 pt-4 lg:mx-32 mx-2 pb-7'>
             <div className=''>
                 <h3 className='text-3xl font-semibold lg:mb-20  mb-4'>
                     Popular Airlines
