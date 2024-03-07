@@ -50,7 +50,7 @@ const Footer = () => {
 <footer className="footer   text-base-content  ">
   <aside className="items-center grid-flow-col ">
    
-    <p>ACME Industries Ltd. <br/>Providing reliable tech since 1992</p>
+    <img src="https://i.ibb.co/wKgmff7/LOGO-white.png" alt="" />
   </aside> 
   <nav>
     <p className='pt-3 text-white'>© Copyright  AIRBOOK</p>
